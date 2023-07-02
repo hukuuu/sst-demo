@@ -1,4 +1,4 @@
-import { Deposit } from '@kinesisstream/core/Types'
+import { Deposit } from '@sstdemo/core/Types'
 import { KinesisStreamEvent } from 'aws-lambda'
 import AWS from 'aws-sdk'
 import { Table } from 'sst/node/table'

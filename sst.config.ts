@@ -4,7 +4,7 @@ import { ExampleStack } from "./stacks/ExampleStack";
 export default {
   config(_input) {
     return {
-      name: "kinesisstream",
+      name: "sstdemo",
       region: "us-east-1",
     };
   },
